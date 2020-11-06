@@ -1,6 +1,6 @@
 # Customer Churn in a Bank
 
-Attempting to predict if a customer will leave the banks.
+Attempting to predict if a customer will leave the bank.
 
 Data Source: https://www.kaggle.com/sanskrutipanda/analysis-of-banking-data-model
 
